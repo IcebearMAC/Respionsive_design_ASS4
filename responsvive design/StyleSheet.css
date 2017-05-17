@@ -1,2 +1,91 @@
 ﻿body {
+    background-image: url(coffee.jpg);
+    background-color: black;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+img {
+    /*float: right;*/
+}
+
+header {
+    color: white;
+}
+#logo{
+    position:relative;
+    left: 270px;
+    top: 210px;
+}
+
+#main_text{
+    display: inline-block;
+    padding: 20px;
+    position:relative;
+    margin-top: 170px;
+    margin-left: 600px;
+    color:white;
+    background: rgba(76, 175, 80, 0.4);
+}
+
+footer {
+    font-family: Geneva, Verdana, sans-serif;
+    font-size: 10px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li{
+    float: left;
+    display: inline;
+}
+
+li a {
+    font-family: Geneva, Verdana, sans-serif; 
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+        background-color: hotpink/*#111*/;
+}
+
+ul#nav .active{
+    background-color: #4CAF50;
+}
+
+.dropdown{
+    position: relative;
+    display:inline-block;
+}
+
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index:1;
+}
+
+.dropdown:hover .dropdown-content{
+    display:block;
 }

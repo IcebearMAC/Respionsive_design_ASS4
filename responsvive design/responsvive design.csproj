@@ -74,9 +74,12 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="coffee.jpg" />
     <Content Include="CoffeeParty.html" />
     <Content Include="CoffeeShop.html" />
-    <Content Include="Conact.html" />
+    <Content Include="Coffee_Break.jpg" />
+    <Content Include="Coffee_Break.png" />
+    <Content Include="Contact.html" />
     <Content Include="Index.html" />
     <Content Include="StyleSheet.css" />
     <Content Include="Web.config" />
