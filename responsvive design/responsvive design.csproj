@@ -77,8 +77,17 @@
     <Content Include="coffee.jpg" />
     <Content Include="CoffeeParty.html" />
     <Content Include="CoffeeShop.html" />
+    <Content Include="Coffee_bean_1.jpg" />
+    <Content Include="Coffee_bean_2.png" />
+    <Content Include="Coffee_bean_3.png" />
     <Content Include="Coffee_Break.jpg" />
     <Content Include="Coffee_Break.png" />
+    <Content Include="Coffee_cup_1.jpg" />
+    <Content Include="Coffee_cup_2.jpg" />
+    <Content Include="Coffee_cup_3.jpg" />
+    <Content Include="Coffee_machine_1.jpg" />
+    <Content Include="coffee_machine_2.jpg" />
+    <Content Include="Coffee_machine_3.jpg" />
     <Content Include="Contact.html" />
     <Content Include="Index.html" />
     <Content Include="StyleSheet.css" />
